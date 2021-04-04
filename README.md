@@ -1,5 +1,10 @@
 # project-vuex
 
+## Example preview, follow link!
+```
+https://romantic-yonath-f84f91.netlify.app/
+```
+
 ## Project setup
 ```
 npm install
